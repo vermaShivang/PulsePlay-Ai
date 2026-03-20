@@ -1,0 +1,6 @@
+streamlit>=1.0
+psycopg2-binary
+python-dotenv
+spotipy
+lyricsgenius
+openai
